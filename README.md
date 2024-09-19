@@ -1,1 +1,4 @@
-# descricao
+- olá meu nome é Ana julia de almeida lemes
+- sou aluna do 1b
+- tenho 15 anos
+- 
